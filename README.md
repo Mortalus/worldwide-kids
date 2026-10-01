@@ -28,3 +28,7 @@ npm test
 ## Credits
 
 Photos are loaded from Wikimedia Commons and credited on each card (public domain, CC0, CC BY and CC BY-SA only). Maps use Natural Earth data (public domain).
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). The licence covers the code; photos keep the licences shown in their credits.
